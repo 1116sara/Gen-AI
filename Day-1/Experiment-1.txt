@@ -1,0 +1,402 @@
+### ***Experiment-1***
+
+
+
+for temperature = 1.5:
+
+
+
+1st time:-
+
+In a Large Language Model (LLM), a token is a single unit of language that represents a part of the input text. It can be a word, a character, a sub-word (a word split into its individual sounds), or a special symbol (such as punctuation marks or emojis). Tokens serve as the basic building blocks of LLMs, being processed and analyzed by the model's neural network to generate or complete text.
+
+
+
+2nd time:-
+
+In Large Language Models (LLMs), a token is a small piece of input text that the model processes as a single unit throughout its training and prediction pipeline. It can be a character, a word, or even more complex structures like sentence embeddings or specialized markup. The tokenization is crucial as it affects how models comprehend meaning from text data when understanding or generating responses in applications like chatbots or summarization services.
+
+
+
+3rd time:-
+
+In the context of Large Language Models (LLMs), a token is the minimum unit of input that the model processes and understands. Tokens can represent words, subwords (small units of words such as prefixes or suffixes), or even special characters, and the input to the model is typically a sequence of tokens. For example, if the input is the phrase "The Quick Brown Fox", the LLM would break it down into separate token representations for each word or character, such as \["The\_", "Quick", "Brown", "Fox\_"] before processing it.
+
+
+
+
+
+for temperature = 0:-
+
+
+
+1st time:-
+
+In the context of Large Language Models (LLMs), a token is a single unit of input or output that represents a word, character, or subword (a smaller unit of a word) in the model's vocabulary. Tokens are used to process and generate text, and they can be either input tokens (e.g., user input) or output tokens (e.g., generated text). The model processes tokens sequentially, using their context and relationships to generate coherent and meaningful text.
+
+
+
+2nd time:-
+
+In the context of Large Language Models (LLMs), a token is a single unit of input or output that represents a word, character, or subword (a smaller unit of a word) in the model's vocabulary. Tokens are used to process and generate text, and they can be either input tokens (e.g., user input) or output tokens (e.g., generated text). The model processes tokens sequentially, using their context and relationships to generate coherent and meaningful text.
+
+
+
+3rd time:-
+
+In the context of Large Language Models (LLMs), a token is a single unit of input or output that represents a word, character, or subword (a smaller unit of a word) in the model's vocabulary. Tokens are used to process and generate text, and they can be either input tokens (e.g., user input) or output tokens (e.g., generated text). The model processes tokens sequentially, using their context and relationships to generate coherent and meaningful text.
+
+
+
+for temperature = 0.7:-
+
+In the context of Large Language Models (LLMs), a token is a unit of text that represents a single word or character, including punctuation, spaces, or special characters. Tokens are used to break down input text into smaller, manageable pieces that the model can process and understand. This tokenization step is crucial for the model to generate coherent and contextually relevant responses, as it allows the model to analyze the relationships between individual words and phrases within the input text.
+
+
+
+### ***Experiment-2***
+
+
+
+Token Budget
+
+
+
+for max\_tokens = 20:-
+
+In the context of Large Language Models (LLMs), a token is a basic unit of text that
+
+
+
+### ***Experiment-3***
+
+
+
+Prompt change
+
+
+
+for max\_tokens=500 , temperature=0
+
+prompt:- "Write a short poem about neural networks"
+
+
+
+1st time:-
+
+
+
+In silicon halls, a mind is born,
+
+A network of nodes, where data is sworn,
+
+Connections weave, a complex web,
+
+Learning and adapting, as the data is fed.
+
+
+
+Synapses fire, a signal's might,
+
+Through layers deep, where patterns take flig	Aht,
+
+Activation functions, a threshold crossed,
+
+The output emerges, a new thought is lost.
+
+
+
+Backpropagation, a path is laid,
+
+Error corrected, as the network's displayed,
+
+Optimization's goal, to minimize the pain,
+
+A better model, where accuracy reigns.
+
+
+
+In neural networks, a future's told,
+
+A glimpse of AI, where intelligence unfolds,
+
+A complex dance, of code and design,
+
+A new frontier, where the mind entwines.
+
+
+
+2nd time:-
+
+
+
+In silicon halls, a mind is born,
+
+A network of nodes, where data is sworn,
+
+Connections weave, a complex web,
+
+Learning and adapting, as the data is fed.
+
+
+
+Synapses fire, a signal's might,
+
+Through layers deep, where patterns take flight,
+
+Activation functions, a threshold crossed,
+
+The output emerges, a new thought is lost.
+
+
+
+Backpropagation, a path is laid,
+
+Error corrected, as the network's displayed,
+
+Optimization's goal, to minimize the pain,
+
+A better model, where accuracy reigns.
+
+
+
+In neural networks, a future's told,
+
+A glimpse of AI, where intelligence unfolds,
+
+A complex dance, of code and design,
+
+A new frontier, where the mind entwines.
+
+
+
+3rd:-
+
+
+
+In silicon halls, a mind is born,
+
+A network of nodes, where data is sworn,
+
+Connections weave, a complex web,
+
+Learning and adapting, as the data is fed.
+
+
+
+Synapses fire, a signal's might,
+
+Through layers deep, where patterns take flight,
+
+Activation functions, a threshold crossed,
+
+The output emerges, a new thought is lost.
+
+
+
+Backpropagation, a path is laid,
+
+Error corrected, as the network's displayed,
+
+Optimization's goal, to minimize the pain,
+
+A better model, where accuracy reigns.
+
+
+
+In neural networks, a future's told,
+
+A glimpse of AI, where intelligence unfolds,
+
+A complex dance, of code and design,
+
+A new frontier, where the mind entwines.
+
+
+
+now, temperature = 1.5:-
+
+
+
+1st time:-
+
+
+
+In virtual halls of computation wide,
+
+A labyrinth lies, where secrets reside,
+
+A net of weights, and nodes so fine,
+
+A model of the brain, so intricately designed.
+
+
+
+It learns from data, in a winding test,
+
+The patterns hidden, from noise and unrest,
+
+A self-improving process, a perpetual stride,
+
+Through hidden layers, to hidden ideas inside.
+
+
+
+With forward pass, a signal flows and bright,
+
+From start to stop, a message takes flight,
+
+Activated by input, from each one apart,
+
+Until an output, of knowledge does start.
+
+
+
+A mirror image, of our own great mind,
+
+A simulation, where intelligence is found,
+
+Yet still we marvel, at its subtle might,
+
+The neural network, shining with newfound light.
+
+
+
+2nd time:-
+
+
+
+In silicon halls, they dwell and play,
+
+A web of neurons, learning day by day,
+
+Nodes connected, links afluent and tight,
+
+Processing data, in the dark of night.
+
+
+
+Synaptic sparks, a fleeting light,
+
+As patterns hide, in the deep blue white,
+
+Backpropagation's guiding gentle hand,
+
+Optimizing weights, across the network's land.
+
+
+
+Through training's fire, they rise and thrive,
+
+Learning from errors, and the data they survive,
+
+A self-improving mind, born of code,
+
+A digital brain, with logic it will employ.
+
+
+
+In hidden worlds, of binary might,
+
+A network reigns, with intelligence in sight,
+
+A tool for humans, to solve and to see,
+
+A glimpse of future, in its digital spree.
+
+
+
+3rd time:-
+
+
+
+In digital brains, a secret place
+
+Where synapses spark and data flow like space
+
+Artificial minds with layers so fine
+
+Learn from their mistakes and adapt design
+
+
+
+Nodes interconnected like stars in the night
+
+&nbsp;Processing and weighing, with every new sight
+
+&nbsp;Patterns emerge, relationships take hold
+
+In complex dance, a hidden truth unfold
+
+
+
+The neural network, a wondrous creation rare
+
+Inspired by flesh, but born in the air
+
+A fusion of codes and data with ease
+
+To make a world of possibilities tease
+
+
+
+Its wisdom grows, like knowledge of the past
+
+As it feeds forward and the output forecast.
+
+Its power vast – to learn to see what others view,
+
+With new perception – ever a step anew.
+
+
+
+
+
+### ***Assignment-1:-***
+
+
+
+added role system and temp = 0.7,
+
+
+
+Imagine you're at a library, and you want to borrow a book to learn about a new topic. The librarian doesn't let you take the whole book; instead, they give you a card with a few key sentences or paragraphs. This card contains the essential information you need to get started.
+
+
+
+In the same way, a token in a Large Language Model (LLM) is like that card. It's a small piece of information, like a word or a phrase, that represents a part of the text. The model uses these tokens to understand the context and generate new text.
+
+
+
+Think of it like a LEGO brick. A single brick might represent a word, and when you connect multiple bricks together, you get a sentence or a paragraph. The LLM uses these tokens (LEGO bricks) to build a vast understanding of language and generate human-like text.
+
+
+
+In Python, when working with LLMs, you might use libraries like Hugging Face's Transformers, which represent text as tokens using a technique called tokenization. This process breaks down the text into individual words, punctuation, and special characters, creating a list of tokens that the model can work with.
+
+For example, the sentence "I love to eat pizza" might be tokenized into:
+
+
+
+\- \[CLS] (a special token to start the sentence)
+
+\- I
+
+\- love
+
+\- to
+
+\- eat
+
+\- pizza
+
+\- \[SEP] (a special token to end the sentence)
+
+
+
+The LLM then uses these tokens to generate text, summarize content, or even create new text based on the input you provide.
+
+
+
+
+
