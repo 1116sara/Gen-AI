@@ -10,6 +10,7 @@ production-ready GenAI and Agentic AI Engineer.
 - Day 3 — Prompt Engineering + Structured Output Pipeline
 - Day 4 — Embeddings + Semantic Search from Scratch
 - Day 5 — Vector Databases + FAISS Persistent Search
+- Day 6 — LangChain Fundamentals
 
 ## Tech Stack
 - Python 3.12
