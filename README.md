@@ -11,6 +11,7 @@ production-ready GenAI and Agentic AI Engineer.
 - Day 4 — Embeddings + Semantic Search from Scratch
 - Day 5 — Vector Databases + FAISS Persistent Search
 - Day 6 — LangChain Fundamentals
+- Day 7 — LlamaIndex Fundamentals
 
 ## Tech Stack
 - Python 3.12
