@@ -12,6 +12,7 @@ production-ready GenAI and Agentic AI Engineer.
 - Day 5 — Vector Databases + FAISS Persistent Search
 - Day 6 — LangChain Fundamentals
 - Day 7 — LlamaIndex Fundamentals
+- Day 8 — RAG from scratch
 
 ## Tech Stack
 - Python 3.12
@@ -19,6 +20,9 @@ production-ready GenAI and Agentic AI Engineer.
 - HuggingFace sentence-transformers
 - FAISS
 - UV package manager
+- LangChain
+- LlamaIndex
+- RAG from scratch
 
 ## Structure
 Each day has its own folder with scripts and assignments.
