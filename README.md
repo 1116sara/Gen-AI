@@ -13,6 +13,7 @@ production-ready GenAI and Agentic AI Engineer.
 - Day 6 — LangChain Fundamentals
 - Day 7 — LlamaIndex Fundamentals
 - Day 8 — RAG from scratch
+- Day 9 — 
 
 ## Tech Stack
 - Python 3.12
@@ -23,6 +24,7 @@ production-ready GenAI and Agentic AI Engineer.
 - LangChain
 - LlamaIndex
 - RAG from scratch
+- Document Loaders + Chunking Strategies
 
 ## Structure
 Each day has its own folder with scripts and assignments.
